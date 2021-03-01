@@ -1,3 +1,3 @@
 # Git github course 
 
-Crach coursr for Git
+Crach course for Git
